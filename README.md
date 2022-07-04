@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aishleen!
-- 👀 I’m interested in UI/UX, Web Development and App Design!
-- 🌱 I’m currently learning JavaScript and some Swift :)
+- 👀 I’m interested in UI/UX and Web Development.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on UI design projects for websites and applications.
 - 📫 Drop me a mail @ aishleensingh.1812@gmail.com
 
